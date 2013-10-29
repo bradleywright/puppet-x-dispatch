@@ -5,7 +5,7 @@
 #   include x-dispatch
 class x-dispatch {
   package { 'x-dispatch':
-    provider   => 'app_dmg',
+    provider   => 'appdmg',
     source => 'http://www.dispatchapp.net/downloads/DispatchURLHelper.dmg'
   }
 }
