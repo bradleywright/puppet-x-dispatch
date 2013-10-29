@@ -2,7 +2,7 @@
 
 Install the
 [X-Dispatch helper](http://www.dispatchapp.net/faq.html#openDispatchLinksOnMac),
-which allows one to open `x-dispach://` links on the Mac.
+which allows one to open `x-dispatch://` links on the Mac.
 
 ## Usage
 
