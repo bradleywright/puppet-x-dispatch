@@ -2,8 +2,8 @@
 #
 # Examples
 #
-#   include x-dispatch
-class x-dispatch {
+#   include x_dispatch
+class x_dispatch {
   package { 'x-dispatch':
     provider   => 'appdmg',
     source => 'http://www.dispatchapp.net/downloads/DispatchURLHelper.dmg'

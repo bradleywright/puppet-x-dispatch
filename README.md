@@ -7,7 +7,7 @@ which allows one to open `x-dispatch://` links on the Mac.
 ## Usage
 
 ```puppet
-include x-dispatch
+include x_dispatch
 ```
 
 ## Required Puppet Modules
